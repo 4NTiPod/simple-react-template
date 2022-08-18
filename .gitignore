@@ -1,3 +1,6 @@
 # Node artifact files
 node_modules/
 package-lock.json
+
+# Build files
+public/main.js
