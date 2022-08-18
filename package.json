@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/IamANTiPod/react-template/issues"
   },
-  "homepage": "https://github.com/IamANTiPod/react-template#readme"
+  "homepage": "https://github.com/IamANTiPod/react-template#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6"
+  }
 }
