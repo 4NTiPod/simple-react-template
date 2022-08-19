@@ -1,2 +1,2 @@
-# react-template
-React template description
+# simple-react-template
+Simple React template

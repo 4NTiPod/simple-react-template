@@ -1,22 +1,22 @@
 {
-  "name": "react-template",
+  "name": "simple-react-template",
   "version": "1.0.0",
-  "description": "React template description",
+  "description": "Simple React template",
   "main": "index.js",
   "scripts": {
     "start": "npx webpack --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IamANTiPod/react-template.git"
+    "url": "git+https://github.com/4NTiPod/simple-react-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IamANTiPod/react-template/issues"
+    "url": "https://github.com/4NTiPod/simple-react-template/issues"
   },
-  "homepage": "https://github.com/IamANTiPod/react-template#readme",
+  "homepage": "https://github.com/4NTiPod/simple-react-template#readme",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.10",
