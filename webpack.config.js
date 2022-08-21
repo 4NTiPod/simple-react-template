@@ -9,16 +9,14 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.js$/,
+                test: /\.(js|jsx|ts|tsx)$/,
                 exclude: /node_modules/,
                 loader: 'babel-loader',
-                options: {
-                    presets: [
-                        '@babel/preset-env',
-                    ],
-                },
             },
         ],
+    },
+    resolve: {
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
     },
     mode: 'development',
     watchOptions: {
